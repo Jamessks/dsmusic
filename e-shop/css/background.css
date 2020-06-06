@@ -1,0 +1,256 @@
+body {
+    background: url(/myimages/music_bckgr_01.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#cartdiv {
+    position: absolute;
+
+    right: 250px;
+
+}
+#cart-img{
+width: 42px;
+height: 42px;
+}
+.ratingdiv{
+    float: right;
+
+}
+
+
+.box {
+    border: 1px solid #eee;
+// overflow: hidden; // unnecessary
+}
+
+.box-inner {
+// overflow: hidden;
+margin: 24px;
+}
+
+#reviewheading {
+.mixin-text(36, 50, 16, 80);
+    margin: 0.5em 0;
+}
+
+#reviewpar {
+.mixin-text(16, 24);
+    margin: 1em 0;
+    word-wrap: break-word;
+}
+
+#mybox{
+    display: inline-block;
+    max-width: 70%;
+    width: 55%;
+    margin: 0.5cm 0 0 0;
+
+}
+#reviewbuttons{
+    position: relative;
+    right: 32%;
+    top: 55px;
+    float: right;
+    display: inline-block;
+
+    margin: 0.5cm 0 0 0;
+}
+
+
+#hellobuttons{
+    position: relative;
+    right: 37%;
+    bottom: 75px;
+    float: right;
+    margin: 0.5cm 0 0 0;
+}
+#myedittextarea{
+    display: inherit;
+    position: relative;
+    height: 100px;
+    max-width: 70%;
+    width: 50%;
+    resize: none;
+    margin: 0.5cm 0 0 0;
+}
+
+.error {color: #FF0000;}
+.error2 {color: #028300;}
+.error3 {color: #FF0000;
+    margin-left: 140px;
+}
+.register2 {
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 7px solid #a4a4a4;
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 20px 0 #000000;
+}
+
+.figure {
+    display: inline-block;
+}
+
+.passdiv{
+padding-left: 60px;
+
+}
+.register3 {
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 7px solid #a4a4a4;
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 20px 0 #000000;
+
+}
+.register4 {
+    width: 65%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 7px solid #a4a4a4;
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 20px 0 #000000;
+
+}
+.register5 {
+     width: 300px;
+     margin: 10px auto;
+     padding: 10px;
+
+     border-radius: 10px;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+     color: #444;
+     background-color: #F0F0F0;
+     box-shadow: 0 0 2px 0 #000000;
+ }
+.register6 {
+    width: 150px;
+    margin: 5px auto;
+    padding: 5px;
+
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 2px 0 #000000;
+}
+.mytext{
+    text-align: center;
+}
+.toptd{
+    vertical-align: top;
+}
+.register7 {
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 4px solid #a4a4a4;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 5px 0 #000000;
+}
+.register8 {
+    display: inline-block;
+    margin: 20px 20px;
+    padding: 30px;
+    border: 0px solid #a4a4a4;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 5px 0 #000000;
+}
+.register9 {
+    display: inline-block;
+    margin: 20px 20px;
+    padding: 30px;
+    border: 2px solid #a4a4a4;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 5px 0 #000000;
+}
+.register10 {
+
+    margin: 20px 20px;
+    padding: 30px;
+    border: 2px solid #a4a4a4;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 5px 0 #000000;
+}
+.mytable {
+    background-color: #fffbf9;
+    border: 7px solid #a4a4a4;
+    border-radius: 10px;
+}
+.mytable2 {
+    background-color: #fffbf9;
+    border: 7px solid #a4a4a4;
+    border-radius: 10px;
+    position: relative;
+    top: 50%;
+    left: 14%;
+
+}
+.register11 {
+    display: inline-block;
+    margin: 5px auto;
+    padding: 5px;
+
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 2px 0 #000000;
+}
+.mything{
+    border-bottom: none;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+.register12 {
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 7px solid #72B372;
+    border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    background-color: #F0F0F0;
+    box-shadow: 0 0 20px 0 #000000;
+}
+.register13 {
+    width: 100%;
+    height: auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+
+}
+.testimg{
+    max-width: 100%;
+    height: auto;
+}

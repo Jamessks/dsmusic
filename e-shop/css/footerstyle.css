@@ -1,0 +1,16 @@
+.myfooter {
+    background: rgba(0, 0, 0, 0.84);
+    text-align:center;
+    padding:20px;
+    margin:0;
+    border-top:1px solid #ddd;
+    color:#999;
+    font-size:0.8em;
+    text-shadow:0px 1px 1px #fff;
+    top:0;
+    left:0;
+}
+.fth2{
+    color: #dfdddf;
+
+}

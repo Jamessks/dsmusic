@@ -1,0 +1,37 @@
+#admin_list
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+
+}
+
+#admin_list li { display: inline; }
+
+.admin_table{
+
+    background-color: #fffaf8;
+}
+
+
+
+#admin_table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+
+th {
+    text-align: center;
+}
+
+.statusimg{
+    height:22px;
+    width: 22px;
+}
+.tdimg{
+    text-align: center;
+}
